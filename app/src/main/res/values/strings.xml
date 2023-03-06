@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Coupons</string>
+    <string name="main_button_consult">Consult</string>
+    <string name="main_button_create">Create</string>
+    <string name="main_text_title">Welcome, enter you coupon and press consult</string>
+    <string name="main_hint_coupon">Coupon</string>
+    <string name="main_hint_description">Description</string>
+    <string name="error_unique_code">Coupon number duplicated, try with another</string>
+    <string name="error_invalid_length">Coupon must have between 5 and 10 characters</string>
+    <string name="error_invalid_unknown">Unknown error creating coupon</string>
+    <string name="created_coupon">Coupon created</string>
+    <string name="main_hint_active">Active coupon</string>
+</resources>
